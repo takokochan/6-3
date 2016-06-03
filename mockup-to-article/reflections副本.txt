@@ -1,0 +1,12 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+Your response goes here!
+1.i’m review the basis of HTML and learn more about HTML.For example <div> is division and <ul> is unordered list ,<ol> is ordered list,i don’t know that before,i think it is good for me to understand.
+2. 3.it’s easy for me.
+4.Constantly modify my code to be better.
